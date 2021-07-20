@@ -1,0 +1,2365 @@
+fileFormatVersion: 2
+guid: e93f98a0e1bb8804c83f5a7d20f1c0a8
+timeCreated: 1502367839
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ApperArm_L
+    100002: ApperArm_L 1
+    100004: ApperArm_L 10
+    100006: ApperArm_L 11
+    100008: ApperArm_L 12
+    100010: ApperArm_L 13
+    100012: ApperArm_L 14
+    100014: ApperArm_L 15
+    100016: ApperArm_L 16
+    100018: ApperArm_L 17
+    100020: ApperArm_L 18
+    100022: ApperArm_L 19
+    100024: ApperArm_L 2
+    100026: ApperArm_L 20
+    100028: ApperArm_L 21
+    100030: ApperArm_L 22
+    100032: ApperArm_L 23
+    100034: ApperArm_L 24
+    100036: ApperArm_L 25
+    100038: ApperArm_L 26
+    100040: ApperArm_L 27
+    100042: ApperArm_L 28
+    100044: ApperArm_L 29
+    100046: ApperArm_L 3
+    100048: ApperArm_L 30
+    100050: ApperArm_L 31
+    100052: ApperArm_L 32
+    100054: ApperArm_L 33
+    100056: ApperArm_L 34
+    100058: ApperArm_L 35
+    100060: ApperArm_L 36
+    100062: ApperArm_L 37
+    100064: ApperArm_L 38
+    100066: ApperArm_L 39
+    100068: ApperArm_L 4
+    100070: ApperArm_L 40
+    100072: ApperArm_L 41
+    100074: ApperArm_L 42
+    100076: ApperArm_L 43
+    100078: ApperArm_L 44
+    100080: ApperArm_L 45
+    100082: ApperArm_L 46
+    100084: ApperArm_L 47
+    100086: ApperArm_L 48
+    100088: ApperArm_L 49
+    100090: ApperArm_L 5
+    100092: ApperArm_L 50
+    100094: ApperArm_L 51
+    100096: ApperArm_L 52
+    100098: ApperArm_L 53
+    100100: ApperArm_L 54
+    100102: ApperArm_L 55
+    100104: ApperArm_L 56
+    100106: ApperArm_L 57
+    100108: ApperArm_L 58
+    100110: ApperArm_L 59
+    100112: ApperArm_L 6
+    100114: ApperArm_L 60
+    100116: ApperArm_L 7
+    100118: ApperArm_L 8
+    100120: ApperArm_L 9
+    100122: ApperArm_R
+    100124: ApperArm_R 1
+    100126: ApperArm_R 10
+    100128: ApperArm_R 11
+    100130: ApperArm_R 12
+    100132: ApperArm_R 13
+    100134: ApperArm_R 14
+    100136: ApperArm_R 15
+    100138: ApperArm_R 16
+    100140: ApperArm_R 17
+    100142: ApperArm_R 18
+    100144: ApperArm_R 19
+    100146: ApperArm_R 2
+    100148: ApperArm_R 20
+    100150: ApperArm_R 21
+    100152: ApperArm_R 22
+    100154: ApperArm_R 23
+    100156: ApperArm_R 24
+    100158: ApperArm_R 25
+    100160: ApperArm_R 26
+    100162: ApperArm_R 27
+    100164: ApperArm_R 28
+    100166: ApperArm_R 29
+    100168: ApperArm_R 3
+    100170: ApperArm_R 30
+    100172: ApperArm_R 31
+    100174: ApperArm_R 32
+    100176: ApperArm_R 33
+    100178: ApperArm_R 34
+    100180: ApperArm_R 35
+    100182: ApperArm_R 36
+    100184: ApperArm_R 37
+    100186: ApperArm_R 38
+    100188: ApperArm_R 39
+    100190: ApperArm_R 4
+    100192: ApperArm_R 40
+    100194: ApperArm_R 41
+    100196: ApperArm_R 42
+    100198: ApperArm_R 43
+    100200: ApperArm_R 44
+    100202: ApperArm_R 45
+    100204: ApperArm_R 46
+    100206: ApperArm_R 47
+    100208: ApperArm_R 48
+    100210: ApperArm_R 49
+    100212: ApperArm_R 5
+    100214: ApperArm_R 50
+    100216: ApperArm_R 51
+    100218: ApperArm_R 52
+    100220: ApperArm_R 53
+    100222: ApperArm_R 54
+    100224: ApperArm_R 55
+    100226: ApperArm_R 56
+    100228: ApperArm_R 57
+    100230: ApperArm_R 58
+    100232: ApperArm_R 59
+    100234: ApperArm_R 6
+    100236: ApperArm_R 60
+    100238: ApperArm_R 7
+    100240: ApperArm_R 8
+    100242: ApperArm_R 9
+    100244: Base
+    100246: Base_MeshPart0
+    100248: Base_MeshPart1
+    100250: Cube.1619
+    100252: //RootNode
+    100254: Foot_L
+    100256: Foot_L 1
+    100258: Foot_L 10
+    100260: Foot_L 11
+    100262: Foot_L 12
+    100264: Foot_L 13
+    100266: Foot_L 14
+    100268: Foot_L 15
+    100270: Foot_L 16
+    100272: Foot_L 17
+    100274: Foot_L 18
+    100276: Foot_L 19
+    100278: Foot_L 2
+    100280: Foot_L 20
+    100282: Foot_L 21
+    100284: Foot_L 22
+    100286: Foot_L 23
+    100288: Foot_L 24
+    100290: Foot_L 25
+    100292: Foot_L 26
+    100294: Foot_L 27
+    100296: Foot_L 28
+    100298: Foot_L 29
+    100300: Foot_L 3
+    100302: Foot_L 30
+    100304: Foot_L 31
+    100306: Foot_L 32
+    100308: Foot_L 33
+    100310: Foot_L 34
+    100312: Foot_L 35
+    100314: Foot_L 36
+    100316: Foot_L 37
+    100318: Foot_L 38
+    100320: Foot_L 39
+    100322: Foot_L 4
+    100324: Foot_L 40
+    100326: Foot_L 41
+    100328: Foot_L 42
+    100330: Foot_L 43
+    100332: Foot_L 44
+    100334: Foot_L 45
+    100336: Foot_L 46
+    100338: Foot_L 47
+    100340: Foot_L 48
+    100342: Foot_L 49
+    100344: Foot_L 5
+    100346: Foot_L 50
+    100348: Foot_L 51
+    100350: Foot_L 52
+    100352: Foot_L 53
+    100354: Foot_L 54
+    100356: Foot_L 55
+    100358: Foot_L 56
+    100360: Foot_L 57
+    100362: Foot_L 58
+    100364: Foot_L 59
+    100366: Foot_L 6
+    100368: Foot_L 60
+    100370: Foot_L 7
+    100372: Foot_L 8
+    100374: Foot_L 9
+    100376: Foot_R
+    100378: Foot_R 1
+    100380: Foot_R 10
+    100382: Foot_R 11
+    100384: Foot_R 12
+    100386: Foot_R 13
+    100388: Foot_R 14
+    100390: Foot_R 15
+    100392: Foot_R 16
+    100394: Foot_R 17
+    100396: Foot_R 18
+    100398: Foot_R 19
+    100400: Foot_R 2
+    100402: Foot_R 20
+    100404: Foot_R 21
+    100406: Foot_R 22
+    100408: Foot_R 23
+    100410: Foot_R 24
+    100412: Foot_R 25
+    100414: Foot_R 26
+    100416: Foot_R 27
+    100418: Foot_R 28
+    100420: Foot_R 29
+    100422: Foot_R 3
+    100424: Foot_R 30
+    100426: Foot_R 31
+    100428: Foot_R 32
+    100430: Foot_R 33
+    100432: Foot_R 34
+    100434: Foot_R 35
+    100436: Foot_R 36
+    100438: Foot_R 37
+    100440: Foot_R 38
+    100442: Foot_R 39
+    100444: Foot_R 4
+    100446: Foot_R 40
+    100448: Foot_R 41
+    100450: Foot_R 42
+    100452: Foot_R 43
+    100454: Foot_R 44
+    100456: Foot_R 45
+    100458: Foot_R 46
+    100460: Foot_R 47
+    100462: Foot_R 48
+    100464: Foot_R 49
+    100466: Foot_R 5
+    100468: Foot_R 50
+    100470: Foot_R 51
+    100472: Foot_R 52
+    100474: Foot_R 53
+    100476: Foot_R 54
+    100478: Foot_R 55
+    100480: Foot_R 56
+    100482: Foot_R 57
+    100484: Foot_R 58
+    100486: Foot_R 59
+    100488: Foot_R 6
+    100490: Foot_R 60
+    100492: Foot_R 7
+    100494: Foot_R 8
+    100496: Foot_R 9
+    100498: Hand
+    100500: Hand 1
+    100502: Hand 2
+    100504: Hand_L
+    100506: Hand_L 1
+    100508: Hand_L 10
+    100510: Hand_L 11
+    100512: Hand_L 12
+    100514: Hand_L 13
+    100516: Hand_L 14
+    100518: Hand_L 15
+    100520: Hand_L 16
+    100522: Hand_L 17
+    100524: Hand_L 18
+    100526: Hand_L 19
+    100528: Hand_L 2
+    100530: Hand_L 20
+    100532: Hand_L 21
+    100534: Hand_L 22
+    100536: Hand_L 23
+    100538: Hand_L 24
+    100540: Hand_L 25
+    100542: Hand_L 26
+    100544: Hand_L 27
+    100546: Hand_L 28
+    100548: Hand_L 29
+    100550: Hand_L 3
+    100552: Hand_L 30
+    100554: Hand_L 31
+    100556: Hand_L 32
+    100558: Hand_L 33
+    100560: Hand_L 34
+    100562: Hand_L 35
+    100564: Hand_L 36
+    100566: Hand_L 37
+    100568: Hand_L 38
+    100570: Hand_L 39
+    100572: Hand_L 4
+    100574: Hand_L 40
+    100576: Hand_L 41
+    100578: Hand_L 42
+    100580: Hand_L 43
+    100582: Hand_L 44
+    100584: Hand_L 45
+    100586: Hand_L 46
+    100588: Hand_L 47
+    100590: Hand_L 48
+    100592: Hand_L 49
+    100594: Hand_L 5
+    100596: Hand_L 50
+    100598: Hand_L 51
+    100600: Hand_L 52
+    100602: Hand_L 53
+    100604: Hand_L 54
+    100606: Hand_L 55
+    100608: Hand_L 56
+    100610: Hand_L 57
+    100612: Hand_L 58
+    100614: Hand_L 59
+    100616: Hand_L 6
+    100618: Hand_L 60
+    100620: Hand_L 7
+    100622: Hand_L 8
+    100624: Hand_L 9
+    100626: Hand_R
+    100628: Hand_R 1
+    100630: Hand_R 10
+    100632: Hand_R 11
+    100634: Hand_R 12
+    100636: Hand_R 13
+    100638: Hand_R 14
+    100640: Hand_R 15
+    100642: Hand_R 16
+    100644: Hand_R 17
+    100646: Hand_R 18
+    100648: Hand_R 19
+    100650: Hand_R 2
+    100652: Hand_R 20
+    100654: Hand_R 21
+    100656: Hand_R 22
+    100658: Hand_R 23
+    100660: Hand_R 24
+    100662: Hand_R 25
+    100664: Hand_R 26
+    100666: Hand_R 27
+    100668: Hand_R 28
+    100670: Hand_R 29
+    100672: Hand_R 3
+    100674: Hand_R 30
+    100676: Hand_R 31
+    100678: Hand_R 32
+    100680: Hand_R 33
+    100682: Hand_R 34
+    100684: Hand_R 35
+    100686: Hand_R 36
+    100688: Hand_R 37
+    100690: Hand_R 38
+    100692: Hand_R 39
+    100694: Hand_R 4
+    100696: Hand_R 40
+    100698: Hand_R 41
+    100700: Hand_R 42
+    100702: Hand_R 43
+    100704: Hand_R 44
+    100706: Hand_R 45
+    100708: Hand_R 46
+    100710: Hand_R 47
+    100712: Hand_R 48
+    100714: Hand_R 49
+    100716: Hand_R 5
+    100718: Hand_R 50
+    100720: Hand_R 51
+    100722: Hand_R 52
+    100724: Hand_R 53
+    100726: Hand_R 54
+    100728: Hand_R 55
+    100730: Hand_R 56
+    100732: Hand_R 57
+    100734: Hand_R 6
+    100736: Hand_R 7
+    100738: Hand_R 8
+    100740: Hand_R 9
+    100742: Head
+    100744: Head 1
+    100746: Head 10
+    100748: Head 11
+    100750: Head 12
+    100752: Head 13
+    100754: Head 14
+    100756: Head 15
+    100758: Head 16
+    100760: Head 17
+    100762: Head 18
+    100764: Head 19
+    100766: Head 2
+    100768: Head 20
+    100770: Head 21
+    100772: Head 22
+    100774: Head 23
+    100776: Head 24
+    100778: Head 25
+    100780: Head 26
+    100782: Head 27
+    100784: Head 28
+    100786: Head 29
+    100788: Head 3
+    100790: Head 30
+    100792: Head 31
+    100794: Head 32
+    100796: Head 33
+    100798: Head 34
+    100800: Head 35
+    100802: Head 36
+    100804: Head 37
+    100806: Head 38
+    100808: Head 39
+    100810: Head 4
+    100812: Head 40
+    100814: Head 41
+    100816: Head 42
+    100818: Head 43
+    100820: Head 44
+    100822: Head 45
+    100824: Head 46
+    100826: Head 47
+    100828: Head 48
+    100830: Head 49
+    100832: Head 5
+    100834: Head 50
+    100836: Head 51
+    100838: Head 52
+    100840: Head 53
+    100842: Head 54
+    100844: Head 55
+    100846: Head 56
+    100848: Head 57
+    100850: Head 58
+    100852: Head 59
+    100854: Head 6
+    100856: Head 60
+    100858: Head 7
+    100860: Head 8
+    100862: Head 9
+    100864: Hip
+    100866: Hip 1
+    100868: Hip 10
+    100870: Hip 11
+    100872: Hip 12
+    100874: Hip 13
+    100876: Hip 14
+    100878: Hip 15
+    100880: Hip 16
+    100882: Hip 17
+    100884: Hip 18
+    100886: Hip 19
+    100888: Hip 2
+    100890: Hip 20
+    100892: Hip 21
+    100894: Hip 22
+    100896: Hip 23
+    100898: Hip 24
+    100900: Hip 25
+    100902: Hip 26
+    100904: Hip 27
+    100906: Hip 28
+    100908: Hip 29
+    100910: Hip 3
+    100912: Hip 30
+    100914: Hip 31
+    100916: Hip 32
+    100918: Hip 33
+    100920: Hip 34
+    100922: Hip 35
+    100924: Hip 36
+    100926: Hip 37
+    100928: Hip 38
+    100930: Hip 39
+    100932: Hip 4
+    100934: Hip 40
+    100936: Hip 41
+    100938: Hip 42
+    100940: Hip 43
+    100942: Hip 44
+    100944: Hip 45
+    100946: Hip 46
+    100948: Hip 47
+    100950: Hip 48
+    100952: Hip 49
+    100954: Hip 5
+    100956: Hip 50
+    100958: Hip 51
+    100960: Hip 52
+    100962: Hip 53
+    100964: Hip 54
+    100966: Hip 55
+    100968: Hip 56
+    100970: Hip 57
+    100972: Hip 58
+    100974: Hip 59
+    100976: Hip 6
+    100978: Hip 60
+    100980: Hip 7
+    100982: Hip 8
+    100984: Hip 9
+    100986: LowerArm_L
+    100988: LowerArm_L 1
+    100990: LowerArm_L 10
+    100992: LowerArm_L 11
+    100994: LowerArm_L 12
+    100996: LowerArm_L 13
+    100998: LowerArm_L 14
+    101000: LowerArm_L 15
+    101002: LowerArm_L 16
+    101004: LowerArm_L 17
+    101006: LowerArm_L 18
+    101008: LowerArm_L 19
+    101010: LowerArm_L 2
+    101012: LowerArm_L 20
+    101014: LowerArm_L 21
+    101016: LowerArm_L 22
+    101018: LowerArm_L 23
+    101020: LowerArm_L 24
+    101022: LowerArm_L 25
+    101024: LowerArm_L 26
+    101026: LowerArm_L 27
+    101028: LowerArm_L 28
+    101030: LowerArm_L 29
+    101032: LowerArm_L 3
+    101034: LowerArm_L 30
+    101036: LowerArm_L 31
+    101038: LowerArm_L 32
+    101040: LowerArm_L 33
+    101042: LowerArm_L 34
+    101044: LowerArm_L 35
+    101046: LowerArm_L 36
+    101048: LowerArm_L 37
+    101050: LowerArm_L 38
+    101052: LowerArm_L 39
+    101054: LowerArm_L 4
+    101056: LowerArm_L 40
+    101058: LowerArm_L 41
+    101060: LowerArm_L 42
+    101062: LowerArm_L 43
+    101064: LowerArm_L 44
+    101066: LowerArm_L 45
+    101068: LowerArm_L 46
+    101070: LowerArm_L 47
+    101072: LowerArm_L 48
+    101074: LowerArm_L 49
+    101076: LowerArm_L 5
+    101078: LowerArm_L 50
+    101080: LowerArm_L 51
+    101082: LowerArm_L 52
+    101084: LowerArm_L 53
+    101086: LowerArm_L 54
+    101088: LowerArm_L 55
+    101090: LowerArm_L 56
+    101092: LowerArm_L 57
+    101094: LowerArm_L 58
+    101096: LowerArm_L 59
+    101098: LowerArm_L 6
+    101100: LowerArm_L 60
+    101102: LowerArm_L 7
+    101104: LowerArm_L 8
+    101106: LowerArm_L 9
+    101108: LowerArm_R
+    101110: LowerArm_R 1
+    101112: LowerArm_R 10
+    101114: LowerArm_R 11
+    101116: LowerArm_R 12
+    101118: LowerArm_R 13
+    101120: LowerArm_R 14
+    101122: LowerArm_R 15
+    101124: LowerArm_R 16
+    101126: LowerArm_R 17
+    101128: LowerArm_R 18
+    101130: LowerArm_R 19
+    101132: LowerArm_R 2
+    101134: LowerArm_R 20
+    101136: LowerArm_R 21
+    101138: LowerArm_R 22
+    101140: LowerArm_R 23
+    101142: LowerArm_R 24
+    101144: LowerArm_R 25
+    101146: LowerArm_R 26
+    101148: LowerArm_R 27
+    101150: LowerArm_R 28
+    101152: LowerArm_R 29
+    101154: LowerArm_R 3
+    101156: LowerArm_R 30
+    101158: LowerArm_R 31
+    101160: LowerArm_R 32
+    101162: LowerArm_R 33
+    101164: LowerArm_R 34
+    101166: LowerArm_R 35
+    101168: LowerArm_R 36
+    101170: LowerArm_R 37
+    101172: LowerArm_R 38
+    101174: LowerArm_R 39
+    101176: LowerArm_R 4
+    101178: LowerArm_R 40
+    101180: LowerArm_R 41
+    101182: LowerArm_R 42
+    101184: LowerArm_R 43
+    101186: LowerArm_R 44
+    101188: LowerArm_R 45
+    101190: LowerArm_R 46
+    101192: LowerArm_R 47
+    101194: LowerArm_R 48
+    101196: LowerArm_R 49
+    101198: LowerArm_R 5
+    101200: LowerArm_R 50
+    101202: LowerArm_R 51
+    101204: LowerArm_R 52
+    101206: LowerArm_R 53
+    101208: LowerArm_R 54
+    101210: LowerArm_R 55
+    101212: LowerArm_R 56
+    101214: LowerArm_R 57
+    101216: LowerArm_R 58
+    101218: LowerArm_R 59
+    101220: LowerArm_R 6
+    101222: LowerArm_R 60
+    101224: LowerArm_R 7
+    101226: LowerArm_R 8
+    101228: LowerArm_R 9
+    101230: LowerLeg_L
+    101232: LowerLeg_L 1
+    101234: LowerLeg_L 10
+    101236: LowerLeg_L 11
+    101238: LowerLeg_L 12
+    101240: LowerLeg_L 13
+    101242: LowerLeg_L 14
+    101244: LowerLeg_L 15
+    101246: LowerLeg_L 16
+    101248: LowerLeg_L 17
+    101250: LowerLeg_L 18
+    101252: LowerLeg_L 19
+    101254: LowerLeg_L 2
+    101256: LowerLeg_L 20
+    101258: LowerLeg_L 21
+    101260: LowerLeg_L 22
+    101262: LowerLeg_L 23
+    101264: LowerLeg_L 24
+    101266: LowerLeg_L 25
+    101268: LowerLeg_L 26
+    101270: LowerLeg_L 27
+    101272: LowerLeg_L 28
+    101274: LowerLeg_L 29
+    101276: LowerLeg_L 3
+    101278: LowerLeg_L 30
+    101280: LowerLeg_L 31
+    101282: LowerLeg_L 32
+    101284: LowerLeg_L 33
+    101286: LowerLeg_L 34
+    101288: LowerLeg_L 35
+    101290: LowerLeg_L 36
+    101292: LowerLeg_L 37
+    101294: LowerLeg_L 38
+    101296: LowerLeg_L 39
+    101298: LowerLeg_L 4
+    101300: LowerLeg_L 40
+    101302: LowerLeg_L 41
+    101304: LowerLeg_L 42
+    101306: LowerLeg_L 43
+    101308: LowerLeg_L 44
+    101310: LowerLeg_L 45
+    101312: LowerLeg_L 46
+    101314: LowerLeg_L 47
+    101316: LowerLeg_L 48
+    101318: LowerLeg_L 49
+    101320: LowerLeg_L 5
+    101322: LowerLeg_L 50
+    101324: LowerLeg_L 51
+    101326: LowerLeg_L 52
+    101328: LowerLeg_L 53
+    101330: LowerLeg_L 54
+    101332: LowerLeg_L 55
+    101334: LowerLeg_L 56
+    101336: LowerLeg_L 57
+    101338: LowerLeg_L 58
+    101340: LowerLeg_L 59
+    101342: LowerLeg_L 6
+    101344: LowerLeg_L 60
+    101346: LowerLeg_L 7
+    101348: LowerLeg_L 8
+    101350: LowerLeg_L 9
+    101352: LowerLeg_R
+    101354: LowerLeg_R 1
+    101356: LowerLeg_R 10
+    101358: LowerLeg_R 11
+    101360: LowerLeg_R 12
+    101362: LowerLeg_R 13
+    101364: LowerLeg_R 14
+    101366: LowerLeg_R 15
+    101368: LowerLeg_R 16
+    101370: LowerLeg_R 17
+    101372: LowerLeg_R 18
+    101374: LowerLeg_R 19
+    101376: LowerLeg_R 2
+    101378: LowerLeg_R 20
+    101380: LowerLeg_R 21
+    101382: LowerLeg_R 22
+    101384: LowerLeg_R 23
+    101386: LowerLeg_R 24
+    101388: LowerLeg_R 25
+    101390: LowerLeg_R 26
+    101392: LowerLeg_R 27
+    101394: LowerLeg_R 28
+    101396: LowerLeg_R 29
+    101398: LowerLeg_R 3
+    101400: LowerLeg_R 30
+    101402: LowerLeg_R 31
+    101404: LowerLeg_R 32
+    101406: LowerLeg_R 33
+    101408: LowerLeg_R 34
+    101410: LowerLeg_R 35
+    101412: LowerLeg_R 36
+    101414: LowerLeg_R 37
+    101416: LowerLeg_R 38
+    101418: LowerLeg_R 39
+    101420: LowerLeg_R 4
+    101422: LowerLeg_R 40
+    101424: LowerLeg_R 41
+    101426: LowerLeg_R 42
+    101428: LowerLeg_R 43
+    101430: LowerLeg_R 44
+    101432: LowerLeg_R 45
+    101434: LowerLeg_R 46
+    101436: LowerLeg_R 47
+    101438: LowerLeg_R 48
+    101440: LowerLeg_R 49
+    101442: LowerLeg_R 5
+    101444: LowerLeg_R 50
+    101446: LowerLeg_R 51
+    101448: LowerLeg_R 52
+    101450: LowerLeg_R 53
+    101452: LowerLeg_R 54
+    101454: LowerLeg_R 55
+    101456: LowerLeg_R 56
+    101458: LowerLeg_R 57
+    101460: LowerLeg_R 58
+    101462: LowerLeg_R 59
+    101464: LowerLeg_R 6
+    101466: LowerLeg_R 60
+    101468: LowerLeg_R 7
+    101470: LowerLeg_R 8
+    101472: LowerLeg_R 9
+    101474: SM_School_Cha_Player_Gray.004
+    101476: SM_School_Cha_Player_Gray.005
+    101478: SM_School_Cha_Player_Gray.006
+    101480: SM_School_Cha_Player_Gray.007
+    101482: SM_School_Cha_Player_Gray.008
+    101484: SM_School_Cha_Player_Gray.009
+    101486: SM_School_Cha_Player_Gray.010
+    101488: SM_School_Cha_Player_Gray.011
+    101490: SM_School_Cha_Player_Gray.013
+    101492: SM_School_Cha_Player_Gray.015
+    101494: SM_School_Cha_Player_Gray.016
+    101496: SM_School_Cha_Player_Gray.017
+    101498: SM_School_Cha_Player_Gray.018
+    101500: SM_School_Cha_Player_Gray.019
+    101502: SM_School_Cha_Player_Gray.020
+    101504: SM_School_Cha_Player_Gray.021
+    101506: SM_School_Cha_Player_Gray.022
+    101508: SM_School_Cha_Player_Gray.023
+    101510: SM_School_Cha_Player_Gray.024
+    101512: SM_School_Cha_Player_Gray.025
+    101514: SM_School_Cha_Player_Gray.026
+    101516: SM_School_Cha_Player_Gray.027
+    101518: SM_School_Cha_Player_Gray.028
+    101520: SM_School_Cha_Player_Gray.029
+    101522: SM_School_Cha_Player_Gray.030
+    101524: SM_School_Cha_Player_Gray.033
+    101526: SM_School_Cha_Player_Gray.034
+    101528: SM_School_Cha_Player_Gray.035
+    101530: SM_School_Cha_Player_Gray.036
+    101532: SM_School_Cha_Player_Gray.037
+    101534: SM_School_Cha_Player_Gray.038
+    101536: SM_School_Cha_Player_Gray.039
+    101538: SM_School_Cha_Player_Gray.040
+    101540: SM_School_Cha_Player_Gray.041
+    101542: SM_School_Cha_Player_Gray.042
+    101544: SM_School_Cha_Player_Gray.043
+    101546: SM_School_Cha_Player_Gray01.001
+    101548: SM_School_Cha_Player_Gray01.002
+    101550: SM_School_Cha_Player_Gray01.004
+    101552: SM_School_Cha_Player_Gray02.001
+    101554: SM_School_Cha_Player_Gray02.002
+    101556: SM_School_Cha_Player_Gray02.004
+    101558: SM_School_Cha_Player_Gray02.005
+    101560: SM_School_Cha_Player_Gray02.006
+    101562: SM_School_Cha_Player_Gray02.007
+    101564: SM_School_Cha_Player_Gray02.008
+    101566: SM_School_Cha_Player_Gray02.009
+    101568: SM_School_Cha_Player_Gray02.010
+    101570: SM_School_Cha_Player_Gray02.011
+    101572: SM_School_Cha_Player_Gray02.012
+    101574: SM_School_Cha_Player_Gray02.013
+    101576: SM_School_Cha_Player_Gray02.014
+    101578: SM_School_Cha_Player_Gray02.015
+    101580: SM_School_Cha_Player_Gray02.016
+    101582: SM_School_Cha_Player_Gray02.017
+    101584: SM_School_Cha_Player_Gray02.018
+    101586: SM_School_Cha_Player_Gray03.001
+    101588: SM_School_Cha_Player_Gray03.002
+    101590: SM_School_Cha_Player_Gray03.003
+    101592: SM_School_Cha_Player_Gray03.004
+    101594: SM_School_Cha_Player_Gray03.006
+    101596: SM_School_Cha_Player_Gray03.007
+    101598: SM_School_Cha_Player_Gray04.001
+    101600: SM_School_Cha_Player_Gray04.002
+    101602: SM_School_Cha_Player_Gray04.004
+    101604: SM_School_Cha_Player_Gray04.005
+    101606: SM_School_Cha_Player_Gray04.006
+    101608: SM_School_Cha_Player_Gray04.007
+    101610: SM_School_Cha_Player_Gray04.008
+    101612: SM_School_Cha_Player_Gray04.009
+    101614: SM_School_Cha_Player_Gray04.010
+    101616: SM_School_Cha_Player_Gray04.011
+    101618: SM_School_Cha_Player_Orange.004
+    101620: SM_School_Cha_Player_Orange.005
+    101622: SM_School_Cha_Player_Orange.006
+    101624: SM_School_Cha_Player_Orange.007
+    101626: SM_School_Cha_Player_Orange.008
+    101628: SM_School_Cha_Player_Orange.009
+    101630: SM_School_Cha_Player_Orange.010
+    101632: SM_School_Cha_Player_Orange.011
+    101634: SM_School_Cha_Player_Orange.013
+    101636: SM_School_Cha_Player_Orange.014
+    101638: SM_School_Cha_Player_Orange.016
+    101640: SM_School_Cha_Player_Orange.017
+    101642: SM_School_Cha_Player_Orange.018
+    101644: SM_School_Cha_Player_Orange.019
+    101646: SM_School_Cha_Player_Orange.020
+    101648: SM_School_Cha_Player_Orange.021
+    101650: SM_School_Cha_Player_Orange.022
+    101652: SM_School_Cha_Player_Orange.023
+    101654: SM_School_Cha_Player_Orange.024
+    101656: SM_School_Cha_Player_Orange.025
+    101658: SM_School_Cha_Player_Orange.026
+    101660: SM_School_Cha_Player_Orange.027
+    101662: SM_School_Cha_Player_Orange.028
+    101664: SM_School_Cha_Player_Orange.029
+    101666: SM_School_Cha_Player_Orange.030
+    101668: SM_School_Cha_Player_Orange01.001
+    101670: SM_School_Cha_Player_Orange01.002
+    101672: SM_School_Cha_Player_Orange01.003
+    101674: SM_School_Cha_Player_Orange01.004
+    101676: SM_School_Cha_Player_Orange02.001
+    101678: SM_School_Cha_Player_Orange02.002
+    101680: SM_School_Cha_Player_Orange02.004
+    101682: SM_School_Cha_Player_Orange02.005
+    101684: SM_School_Cha_Player_Orange02.006
+    101686: SM_School_Cha_Player_Orange02.007
+    101688: SM_School_Cha_Player_Orange02.008
+    101690: SM_School_Cha_Player_Orange02.009
+    101692: SM_School_Cha_Player_Orange02.010
+    101694: SM_School_Cha_Player_Orange02.011
+    101696: SM_School_Cha_Player_Orange03.001
+    101698: SM_School_Cha_Player_Orange03.002
+    101700: SM_School_Cha_Player_Orange03.004
+    101702: SM_School_Cha_Player_Orange03.005
+    101704: SM_School_Cha_Player_Orange03.006
+    101706: SM_School_Cha_Player_Orange04.001
+    101708: SM_School_Cha_Player_Orange04.002
+    101710: SM_School_Cha_Player_Orange04.003
+    101712: SM_School_Cha_Player_Orange04.004
+    101714: SM_School_Cha_Player_Orange04.005
+    101716: SM_School_Cha_Player_Orange04.006
+    101718: SM_School_Env_BasketballCourt
+    101720: SM_School_Env_BasketballCourt.001
+    101722: SM_School_Env_Building01.001
+    101724: SM_School_Env_Building02
+    101726: SM_School_Env_FootballGround
+    101728: SM_School_Env_SchoolText
+    101730: SM_School_Env_StadiumSeat_Blue
+    101732: SM_School_Env_StadiumSeat_Blue.001
+    101734: SM_School_Env_StadiumSeat_Blue.002
+    101736: SM_School_Env_StadiumSeat_Blue.003
+    101738: SM_School_Env_StadiumSeat_Red
+    101740: SM_School_Env_StadiumSeat_Red.001
+    101742: SM_School_Env_StadiumSeat_Red.002
+    101744: SM_School_Env_StadiumSeat_Red.003
+    101746: SM_School_Props_Basketball
+    101748: SM_School_Props_Football
+    101750: Spine
+    101752: Spine 1
+    101754: Spine 10
+    101756: Spine 11
+    101758: Spine 12
+    101760: Spine 13
+    101762: Spine 14
+    101764: Spine 15
+    101766: Spine 16
+    101768: Spine 17
+    101770: Spine 18
+    101772: Spine 19
+    101774: Spine 2
+    101776: Spine 20
+    101778: Spine 21
+    101780: Spine 22
+    101782: Spine 23
+    101784: Spine 24
+    101786: Spine 25
+    101788: Spine 26
+    101790: Spine 27
+    101792: Spine 28
+    101794: Spine 29
+    101796: Spine 3
+    101798: Spine 30
+    101800: Spine 31
+    101802: Spine 32
+    101804: Spine 33
+    101806: Spine 34
+    101808: Spine 35
+    101810: Spine 36
+    101812: Spine 37
+    101814: Spine 38
+    101816: Spine 39
+    101818: Spine 4
+    101820: Spine 40
+    101822: Spine 41
+    101824: Spine 42
+    101826: Spine 43
+    101828: Spine 44
+    101830: Spine 45
+    101832: Spine 46
+    101834: Spine 47
+    101836: Spine 48
+    101838: Spine 49
+    101840: Spine 5
+    101842: Spine 50
+    101844: Spine 51
+    101846: Spine 52
+    101848: Spine 53
+    101850: Spine 54
+    101852: Spine 55
+    101854: Spine 56
+    101856: Spine 57
+    101858: Spine 58
+    101860: Spine 59
+    101862: Spine 6
+    101864: Spine 60
+    101866: Spine 7
+    101868: Spine 8
+    101870: Spine 9
+    101872: UpperLeg_L
+    101874: UpperLeg_L 1
+    101876: UpperLeg_L 10
+    101878: UpperLeg_L 11
+    101880: UpperLeg_L 12
+    101882: UpperLeg_L 13
+    101884: UpperLeg_L 14
+    101886: UpperLeg_L 15
+    101888: UpperLeg_L 16
+    101890: UpperLeg_L 17
+    101892: UpperLeg_L 18
+    101894: UpperLeg_L 19
+    101896: UpperLeg_L 2
+    101898: UpperLeg_L 20
+    101900: UpperLeg_L 21
+    101902: UpperLeg_L 22
+    101904: UpperLeg_L 23
+    101906: UpperLeg_L 24
+    101908: UpperLeg_L 25
+    101910: UpperLeg_L 26
+    101912: UpperLeg_L 27
+    101914: UpperLeg_L 28
+    101916: UpperLeg_L 29
+    101918: UpperLeg_L 3
+    101920: UpperLeg_L 30
+    101922: UpperLeg_L 31
+    101924: UpperLeg_L 32
+    101926: UpperLeg_L 33
+    101928: UpperLeg_L 34
+    101930: UpperLeg_L 35
+    101932: UpperLeg_L 36
+    101934: UpperLeg_L 37
+    101936: UpperLeg_L 38
+    101938: UpperLeg_L 39
+    101940: UpperLeg_L 4
+    101942: UpperLeg_L 40
+    101944: UpperLeg_L 41
+    101946: UpperLeg_L 42
+    101948: UpperLeg_L 43
+    101950: UpperLeg_L 44
+    101952: UpperLeg_L 45
+    101954: UpperLeg_L 46
+    101956: UpperLeg_L 47
+    101958: UpperLeg_L 48
+    101960: UpperLeg_L 49
+    101962: UpperLeg_L 5
+    101964: UpperLeg_L 50
+    101966: UpperLeg_L 51
+    101968: UpperLeg_L 52
+    101970: UpperLeg_L 53
+    101972: UpperLeg_L 54
+    101974: UpperLeg_L 55
+    101976: UpperLeg_L 56
+    101978: UpperLeg_L 57
+    101980: UpperLeg_L 58
+    101982: UpperLeg_L 59
+    101984: UpperLeg_L 6
+    101986: UpperLeg_L 60
+    101988: UpperLeg_L 7
+    101990: UpperLeg_L 8
+    101992: UpperLeg_L 9
+    101994: UpperLeg_R
+    101996: UpperLeg_R 1
+    101998: UpperLeg_R 10
+    102000: UpperLeg_R 11
+    102002: UpperLeg_R 12
+    102004: UpperLeg_R 13
+    102006: UpperLeg_R 14
+    102008: UpperLeg_R 15
+    102010: UpperLeg_R 16
+    102012: UpperLeg_R 17
+    102014: UpperLeg_R 18
+    102016: UpperLeg_R 19
+    102018: UpperLeg_R 2
+    102020: UpperLeg_R 20
+    102022: UpperLeg_R 21
+    102024: UpperLeg_R 22
+    102026: UpperLeg_R 23
+    102028: UpperLeg_R 24
+    102030: UpperLeg_R 25
+    102032: UpperLeg_R 26
+    102034: UpperLeg_R 27
+    102036: UpperLeg_R 28
+    102038: UpperLeg_R 29
+    102040: UpperLeg_R 3
+    102042: UpperLeg_R 30
+    102044: UpperLeg_R 31
+    102046: UpperLeg_R 32
+    102048: UpperLeg_R 33
+    102050: UpperLeg_R 34
+    102052: UpperLeg_R 35
+    102054: UpperLeg_R 36
+    102056: UpperLeg_R 37
+    102058: UpperLeg_R 38
+    102060: UpperLeg_R 39
+    102062: UpperLeg_R 4
+    102064: UpperLeg_R 40
+    102066: UpperLeg_R 41
+    102068: UpperLeg_R 42
+    102070: UpperLeg_R 43
+    102072: UpperLeg_R 44
+    102074: UpperLeg_R 45
+    102076: UpperLeg_R 46
+    102078: UpperLeg_R 47
+    102080: UpperLeg_R 48
+    102082: UpperLeg_R 49
+    102084: UpperLeg_R 5
+    102086: UpperLeg_R 50
+    102088: UpperLeg_R 51
+    102090: UpperLeg_R 52
+    102092: UpperLeg_R 53
+    102094: UpperLeg_R 54
+    102096: UpperLeg_R 55
+    102098: UpperLeg_R 56
+    102100: UpperLeg_R 57
+    102102: UpperLeg_R 58
+    102104: UpperLeg_R 59
+    102106: UpperLeg_R 6
+    102108: UpperLeg_R 60
+    102110: UpperLeg_R 7
+    102112: UpperLeg_R 8
+    102114: UpperLeg_R 9
+    400000: ApperArm_L
+    400002: ApperArm_L 1
+    400004: ApperArm_L 10
+    400006: ApperArm_L 11
+    400008: ApperArm_L 12
+    400010: ApperArm_L 13
+    400012: ApperArm_L 14
+    400014: ApperArm_L 15
+    400016: ApperArm_L 16
+    400018: ApperArm_L 17
+    400020: ApperArm_L 18
+    400022: ApperArm_L 19
+    400024: ApperArm_L 2
+    400026: ApperArm_L 20
+    400028: ApperArm_L 21
+    400030: ApperArm_L 22
+    400032: ApperArm_L 23
+    400034: ApperArm_L 24
+    400036: ApperArm_L 25
+    400038: ApperArm_L 26
+    400040: ApperArm_L 27
+    400042: ApperArm_L 28
+    400044: ApperArm_L 29
+    400046: ApperArm_L 3
+    400048: ApperArm_L 30
+    400050: ApperArm_L 31
+    400052: ApperArm_L 32
+    400054: ApperArm_L 33
+    400056: ApperArm_L 34
+    400058: ApperArm_L 35
+    400060: ApperArm_L 36
+    400062: ApperArm_L 37
+    400064: ApperArm_L 38
+    400066: ApperArm_L 39
+    400068: ApperArm_L 4
+    400070: ApperArm_L 40
+    400072: ApperArm_L 41
+    400074: ApperArm_L 42
+    400076: ApperArm_L 43
+    400078: ApperArm_L 44
+    400080: ApperArm_L 45
+    400082: ApperArm_L 46
+    400084: ApperArm_L 47
+    400086: ApperArm_L 48
+    400088: ApperArm_L 49
+    400090: ApperArm_L 5
+    400092: ApperArm_L 50
+    400094: ApperArm_L 51
+    400096: ApperArm_L 52
+    400098: ApperArm_L 53
+    400100: ApperArm_L 54
+    400102: ApperArm_L 55
+    400104: ApperArm_L 56
+    400106: ApperArm_L 57
+    400108: ApperArm_L 58
+    400110: ApperArm_L 59
+    400112: ApperArm_L 6
+    400114: ApperArm_L 60
+    400116: ApperArm_L 7
+    400118: ApperArm_L 8
+    400120: ApperArm_L 9
+    400122: ApperArm_R
+    400124: ApperArm_R 1
+    400126: ApperArm_R 10
+    400128: ApperArm_R 11
+    400130: ApperArm_R 12
+    400132: ApperArm_R 13
+    400134: ApperArm_R 14
+    400136: ApperArm_R 15
+    400138: ApperArm_R 16
+    400140: ApperArm_R 17
+    400142: ApperArm_R 18
+    400144: ApperArm_R 19
+    400146: ApperArm_R 2
+    400148: ApperArm_R 20
+    400150: ApperArm_R 21
+    400152: ApperArm_R 22
+    400154: ApperArm_R 23
+    400156: ApperArm_R 24
+    400158: ApperArm_R 25
+    400160: ApperArm_R 26
+    400162: ApperArm_R 27
+    400164: ApperArm_R 28
+    400166: ApperArm_R 29
+    400168: ApperArm_R 3
+    400170: ApperArm_R 30
+    400172: ApperArm_R 31
+    400174: ApperArm_R 32
+    400176: ApperArm_R 33
+    400178: ApperArm_R 34
+    400180: ApperArm_R 35
+    400182: ApperArm_R 36
+    400184: ApperArm_R 37
+    400186: ApperArm_R 38
+    400188: ApperArm_R 39
+    400190: ApperArm_R 4
+    400192: ApperArm_R 40
+    400194: ApperArm_R 41
+    400196: ApperArm_R 42
+    400198: ApperArm_R 43
+    400200: ApperArm_R 44
+    400202: ApperArm_R 45
+    400204: ApperArm_R 46
+    400206: ApperArm_R 47
+    400208: ApperArm_R 48
+    400210: ApperArm_R 49
+    400212: ApperArm_R 5
+    400214: ApperArm_R 50
+    400216: ApperArm_R 51
+    400218: ApperArm_R 52
+    400220: ApperArm_R 53
+    400222: ApperArm_R 54
+    400224: ApperArm_R 55
+    400226: ApperArm_R 56
+    400228: ApperArm_R 57
+    400230: ApperArm_R 58
+    400232: ApperArm_R 59
+    400234: ApperArm_R 6
+    400236: ApperArm_R 60
+    400238: ApperArm_R 7
+    400240: ApperArm_R 8
+    400242: ApperArm_R 9
+    400244: Base
+    400246: Base_MeshPart0
+    400248: Base_MeshPart1
+    400250: Cube.1619
+    400252: //RootNode
+    400254: Foot_L
+    400256: Foot_L 1
+    400258: Foot_L 10
+    400260: Foot_L 11
+    400262: Foot_L 12
+    400264: Foot_L 13
+    400266: Foot_L 14
+    400268: Foot_L 15
+    400270: Foot_L 16
+    400272: Foot_L 17
+    400274: Foot_L 18
+    400276: Foot_L 19
+    400278: Foot_L 2
+    400280: Foot_L 20
+    400282: Foot_L 21
+    400284: Foot_L 22
+    400286: Foot_L 23
+    400288: Foot_L 24
+    400290: Foot_L 25
+    400292: Foot_L 26
+    400294: Foot_L 27
+    400296: Foot_L 28
+    400298: Foot_L 29
+    400300: Foot_L 3
+    400302: Foot_L 30
+    400304: Foot_L 31
+    400306: Foot_L 32
+    400308: Foot_L 33
+    400310: Foot_L 34
+    400312: Foot_L 35
+    400314: Foot_L 36
+    400316: Foot_L 37
+    400318: Foot_L 38
+    400320: Foot_L 39
+    400322: Foot_L 4
+    400324: Foot_L 40
+    400326: Foot_L 41
+    400328: Foot_L 42
+    400330: Foot_L 43
+    400332: Foot_L 44
+    400334: Foot_L 45
+    400336: Foot_L 46
+    400338: Foot_L 47
+    400340: Foot_L 48
+    400342: Foot_L 49
+    400344: Foot_L 5
+    400346: Foot_L 50
+    400348: Foot_L 51
+    400350: Foot_L 52
+    400352: Foot_L 53
+    400354: Foot_L 54
+    400356: Foot_L 55
+    400358: Foot_L 56
+    400360: Foot_L 57
+    400362: Foot_L 58
+    400364: Foot_L 59
+    400366: Foot_L 6
+    400368: Foot_L 60
+    400370: Foot_L 7
+    400372: Foot_L 8
+    400374: Foot_L 9
+    400376: Foot_R
+    400378: Foot_R 1
+    400380: Foot_R 10
+    400382: Foot_R 11
+    400384: Foot_R 12
+    400386: Foot_R 13
+    400388: Foot_R 14
+    400390: Foot_R 15
+    400392: Foot_R 16
+    400394: Foot_R 17
+    400396: Foot_R 18
+    400398: Foot_R 19
+    400400: Foot_R 2
+    400402: Foot_R 20
+    400404: Foot_R 21
+    400406: Foot_R 22
+    400408: Foot_R 23
+    400410: Foot_R 24
+    400412: Foot_R 25
+    400414: Foot_R 26
+    400416: Foot_R 27
+    400418: Foot_R 28
+    400420: Foot_R 29
+    400422: Foot_R 3
+    400424: Foot_R 30
+    400426: Foot_R 31
+    400428: Foot_R 32
+    400430: Foot_R 33
+    400432: Foot_R 34
+    400434: Foot_R 35
+    400436: Foot_R 36
+    400438: Foot_R 37
+    400440: Foot_R 38
+    400442: Foot_R 39
+    400444: Foot_R 4
+    400446: Foot_R 40
+    400448: Foot_R 41
+    400450: Foot_R 42
+    400452: Foot_R 43
+    400454: Foot_R 44
+    400456: Foot_R 45
+    400458: Foot_R 46
+    400460: Foot_R 47
+    400462: Foot_R 48
+    400464: Foot_R 49
+    400466: Foot_R 5
+    400468: Foot_R 50
+    400470: Foot_R 51
+    400472: Foot_R 52
+    400474: Foot_R 53
+    400476: Foot_R 54
+    400478: Foot_R 55
+    400480: Foot_R 56
+    400482: Foot_R 57
+    400484: Foot_R 58
+    400486: Foot_R 59
+    400488: Foot_R 6
+    400490: Foot_R 60
+    400492: Foot_R 7
+    400494: Foot_R 8
+    400496: Foot_R 9
+    400498: Hand
+    400500: Hand 1
+    400502: Hand 2
+    400504: Hand_L
+    400506: Hand_L 1
+    400508: Hand_L 10
+    400510: Hand_L 11
+    400512: Hand_L 12
+    400514: Hand_L 13
+    400516: Hand_L 14
+    400518: Hand_L 15
+    400520: Hand_L 16
+    400522: Hand_L 17
+    400524: Hand_L 18
+    400526: Hand_L 19
+    400528: Hand_L 2
+    400530: Hand_L 20
+    400532: Hand_L 21
+    400534: Hand_L 22
+    400536: Hand_L 23
+    400538: Hand_L 24
+    400540: Hand_L 25
+    400542: Hand_L 26
+    400544: Hand_L 27
+    400546: Hand_L 28
+    400548: Hand_L 29
+    400550: Hand_L 3
+    400552: Hand_L 30
+    400554: Hand_L 31
+    400556: Hand_L 32
+    400558: Hand_L 33
+    400560: Hand_L 34
+    400562: Hand_L 35
+    400564: Hand_L 36
+    400566: Hand_L 37
+    400568: Hand_L 38
+    400570: Hand_L 39
+    400572: Hand_L 4
+    400574: Hand_L 40
+    400576: Hand_L 41
+    400578: Hand_L 42
+    400580: Hand_L 43
+    400582: Hand_L 44
+    400584: Hand_L 45
+    400586: Hand_L 46
+    400588: Hand_L 47
+    400590: Hand_L 48
+    400592: Hand_L 49
+    400594: Hand_L 5
+    400596: Hand_L 50
+    400598: Hand_L 51
+    400600: Hand_L 52
+    400602: Hand_L 53
+    400604: Hand_L 54
+    400606: Hand_L 55
+    400608: Hand_L 56
+    400610: Hand_L 57
+    400612: Hand_L 58
+    400614: Hand_L 59
+    400616: Hand_L 6
+    400618: Hand_L 60
+    400620: Hand_L 7
+    400622: Hand_L 8
+    400624: Hand_L 9
+    400626: Hand_R
+    400628: Hand_R 1
+    400630: Hand_R 10
+    400632: Hand_R 11
+    400634: Hand_R 12
+    400636: Hand_R 13
+    400638: Hand_R 14
+    400640: Hand_R 15
+    400642: Hand_R 16
+    400644: Hand_R 17
+    400646: Hand_R 18
+    400648: Hand_R 19
+    400650: Hand_R 2
+    400652: Hand_R 20
+    400654: Hand_R 21
+    400656: Hand_R 22
+    400658: Hand_R 23
+    400660: Hand_R 24
+    400662: Hand_R 25
+    400664: Hand_R 26
+    400666: Hand_R 27
+    400668: Hand_R 28
+    400670: Hand_R 29
+    400672: Hand_R 3
+    400674: Hand_R 30
+    400676: Hand_R 31
+    400678: Hand_R 32
+    400680: Hand_R 33
+    400682: Hand_R 34
+    400684: Hand_R 35
+    400686: Hand_R 36
+    400688: Hand_R 37
+    400690: Hand_R 38
+    400692: Hand_R 39
+    400694: Hand_R 4
+    400696: Hand_R 40
+    400698: Hand_R 41
+    400700: Hand_R 42
+    400702: Hand_R 43
+    400704: Hand_R 44
+    400706: Hand_R 45
+    400708: Hand_R 46
+    400710: Hand_R 47
+    400712: Hand_R 48
+    400714: Hand_R 49
+    400716: Hand_R 5
+    400718: Hand_R 50
+    400720: Hand_R 51
+    400722: Hand_R 52
+    400724: Hand_R 53
+    400726: Hand_R 54
+    400728: Hand_R 55
+    400730: Hand_R 56
+    400732: Hand_R 57
+    400734: Hand_R 6
+    400736: Hand_R 7
+    400738: Hand_R 8
+    400740: Hand_R 9
+    400742: Head
+    400744: Head 1
+    400746: Head 10
+    400748: Head 11
+    400750: Head 12
+    400752: Head 13
+    400754: Head 14
+    400756: Head 15
+    400758: Head 16
+    400760: Head 17
+    400762: Head 18
+    400764: Head 19
+    400766: Head 2
+    400768: Head 20
+    400770: Head 21
+    400772: Head 22
+    400774: Head 23
+    400776: Head 24
+    400778: Head 25
+    400780: Head 26
+    400782: Head 27
+    400784: Head 28
+    400786: Head 29
+    400788: Head 3
+    400790: Head 30
+    400792: Head 31
+    400794: Head 32
+    400796: Head 33
+    400798: Head 34
+    400800: Head 35
+    400802: Head 36
+    400804: Head 37
+    400806: Head 38
+    400808: Head 39
+    400810: Head 4
+    400812: Head 40
+    400814: Head 41
+    400816: Head 42
+    400818: Head 43
+    400820: Head 44
+    400822: Head 45
+    400824: Head 46
+    400826: Head 47
+    400828: Head 48
+    400830: Head 49
+    400832: Head 5
+    400834: Head 50
+    400836: Head 51
+    400838: Head 52
+    400840: Head 53
+    400842: Head 54
+    400844: Head 55
+    400846: Head 56
+    400848: Head 57
+    400850: Head 58
+    400852: Head 59
+    400854: Head 6
+    400856: Head 60
+    400858: Head 7
+    400860: Head 8
+    400862: Head 9
+    400864: Hip
+    400866: Hip 1
+    400868: Hip 10
+    400870: Hip 11
+    400872: Hip 12
+    400874: Hip 13
+    400876: Hip 14
+    400878: Hip 15
+    400880: Hip 16
+    400882: Hip 17
+    400884: Hip 18
+    400886: Hip 19
+    400888: Hip 2
+    400890: Hip 20
+    400892: Hip 21
+    400894: Hip 22
+    400896: Hip 23
+    400898: Hip 24
+    400900: Hip 25
+    400902: Hip 26
+    400904: Hip 27
+    400906: Hip 28
+    400908: Hip 29
+    400910: Hip 3
+    400912: Hip 30
+    400914: Hip 31
+    400916: Hip 32
+    400918: Hip 33
+    400920: Hip 34
+    400922: Hip 35
+    400924: Hip 36
+    400926: Hip 37
+    400928: Hip 38
+    400930: Hip 39
+    400932: Hip 4
+    400934: Hip 40
+    400936: Hip 41
+    400938: Hip 42
+    400940: Hip 43
+    400942: Hip 44
+    400944: Hip 45
+    400946: Hip 46
+    400948: Hip 47
+    400950: Hip 48
+    400952: Hip 49
+    400954: Hip 5
+    400956: Hip 50
+    400958: Hip 51
+    400960: Hip 52
+    400962: Hip 53
+    400964: Hip 54
+    400966: Hip 55
+    400968: Hip 56
+    400970: Hip 57
+    400972: Hip 58
+    400974: Hip 59
+    400976: Hip 6
+    400978: Hip 60
+    400980: Hip 7
+    400982: Hip 8
+    400984: Hip 9
+    400986: LowerArm_L
+    400988: LowerArm_L 1
+    400990: LowerArm_L 10
+    400992: LowerArm_L 11
+    400994: LowerArm_L 12
+    400996: LowerArm_L 13
+    400998: LowerArm_L 14
+    401000: LowerArm_L 15
+    401002: LowerArm_L 16
+    401004: LowerArm_L 17
+    401006: LowerArm_L 18
+    401008: LowerArm_L 19
+    401010: LowerArm_L 2
+    401012: LowerArm_L 20
+    401014: LowerArm_L 21
+    401016: LowerArm_L 22
+    401018: LowerArm_L 23
+    401020: LowerArm_L 24
+    401022: LowerArm_L 25
+    401024: LowerArm_L 26
+    401026: LowerArm_L 27
+    401028: LowerArm_L 28
+    401030: LowerArm_L 29
+    401032: LowerArm_L 3
+    401034: LowerArm_L 30
+    401036: LowerArm_L 31
+    401038: LowerArm_L 32
+    401040: LowerArm_L 33
+    401042: LowerArm_L 34
+    401044: LowerArm_L 35
+    401046: LowerArm_L 36
+    401048: LowerArm_L 37
+    401050: LowerArm_L 38
+    401052: LowerArm_L 39
+    401054: LowerArm_L 4
+    401056: LowerArm_L 40
+    401058: LowerArm_L 41
+    401060: LowerArm_L 42
+    401062: LowerArm_L 43
+    401064: LowerArm_L 44
+    401066: LowerArm_L 45
+    401068: LowerArm_L 46
+    401070: LowerArm_L 47
+    401072: LowerArm_L 48
+    401074: LowerArm_L 49
+    401076: LowerArm_L 5
+    401078: LowerArm_L 50
+    401080: LowerArm_L 51
+    401082: LowerArm_L 52
+    401084: LowerArm_L 53
+    401086: LowerArm_L 54
+    401088: LowerArm_L 55
+    401090: LowerArm_L 56
+    401092: LowerArm_L 57
+    401094: LowerArm_L 58
+    401096: LowerArm_L 59
+    401098: LowerArm_L 6
+    401100: LowerArm_L 60
+    401102: LowerArm_L 7
+    401104: LowerArm_L 8
+    401106: LowerArm_L 9
+    401108: LowerArm_R
+    401110: LowerArm_R 1
+    401112: LowerArm_R 10
+    401114: LowerArm_R 11
+    401116: LowerArm_R 12
+    401118: LowerArm_R 13
+    401120: LowerArm_R 14
+    401122: LowerArm_R 15
+    401124: LowerArm_R 16
+    401126: LowerArm_R 17
+    401128: LowerArm_R 18
+    401130: LowerArm_R 19
+    401132: LowerArm_R 2
+    401134: LowerArm_R 20
+    401136: LowerArm_R 21
+    401138: LowerArm_R 22
+    401140: LowerArm_R 23
+    401142: LowerArm_R 24
+    401144: LowerArm_R 25
+    401146: LowerArm_R 26
+    401148: LowerArm_R 27
+    401150: LowerArm_R 28
+    401152: LowerArm_R 29
+    401154: LowerArm_R 3
+    401156: LowerArm_R 30
+    401158: LowerArm_R 31
+    401160: LowerArm_R 32
+    401162: LowerArm_R 33
+    401164: LowerArm_R 34
+    401166: LowerArm_R 35
+    401168: LowerArm_R 36
+    401170: LowerArm_R 37
+    401172: LowerArm_R 38
+    401174: LowerArm_R 39
+    401176: LowerArm_R 4
+    401178: LowerArm_R 40
+    401180: LowerArm_R 41
+    401182: LowerArm_R 42
+    401184: LowerArm_R 43
+    401186: LowerArm_R 44
+    401188: LowerArm_R 45
+    401190: LowerArm_R 46
+    401192: LowerArm_R 47
+    401194: LowerArm_R 48
+    401196: LowerArm_R 49
+    401198: LowerArm_R 5
+    401200: LowerArm_R 50
+    401202: LowerArm_R 51
+    401204: LowerArm_R 52
+    401206: LowerArm_R 53
+    401208: LowerArm_R 54
+    401210: LowerArm_R 55
+    401212: LowerArm_R 56
+    401214: LowerArm_R 57
+    401216: LowerArm_R 58
+    401218: LowerArm_R 59
+    401220: LowerArm_R 6
+    401222: LowerArm_R 60
+    401224: LowerArm_R 7
+    401226: LowerArm_R 8
+    401228: LowerArm_R 9
+    401230: LowerLeg_L
+    401232: LowerLeg_L 1
+    401234: LowerLeg_L 10
+    401236: LowerLeg_L 11
+    401238: LowerLeg_L 12
+    401240: LowerLeg_L 13
+    401242: LowerLeg_L 14
+    401244: LowerLeg_L 15
+    401246: LowerLeg_L 16
+    401248: LowerLeg_L 17
+    401250: LowerLeg_L 18
+    401252: LowerLeg_L 19
+    401254: LowerLeg_L 2
+    401256: LowerLeg_L 20
+    401258: LowerLeg_L 21
+    401260: LowerLeg_L 22
+    401262: LowerLeg_L 23
+    401264: LowerLeg_L 24
+    401266: LowerLeg_L 25
+    401268: LowerLeg_L 26
+    401270: LowerLeg_L 27
+    401272: LowerLeg_L 28
+    401274: LowerLeg_L 29
+    401276: LowerLeg_L 3
+    401278: LowerLeg_L 30
+    401280: LowerLeg_L 31
+    401282: LowerLeg_L 32
+    401284: LowerLeg_L 33
+    401286: LowerLeg_L 34
+    401288: LowerLeg_L 35
+    401290: LowerLeg_L 36
+    401292: LowerLeg_L 37
+    401294: LowerLeg_L 38
+    401296: LowerLeg_L 39
+    401298: LowerLeg_L 4
+    401300: LowerLeg_L 40
+    401302: LowerLeg_L 41
+    401304: LowerLeg_L 42
+    401306: LowerLeg_L 43
+    401308: LowerLeg_L 44
+    401310: LowerLeg_L 45
+    401312: LowerLeg_L 46
+    401314: LowerLeg_L 47
+    401316: LowerLeg_L 48
+    401318: LowerLeg_L 49
+    401320: LowerLeg_L 5
+    401322: LowerLeg_L 50
+    401324: LowerLeg_L 51
+    401326: LowerLeg_L 52
+    401328: LowerLeg_L 53
+    401330: LowerLeg_L 54
+    401332: LowerLeg_L 55
+    401334: LowerLeg_L 56
+    401336: LowerLeg_L 57
+    401338: LowerLeg_L 58
+    401340: LowerLeg_L 59
+    401342: LowerLeg_L 6
+    401344: LowerLeg_L 60
+    401346: LowerLeg_L 7
+    401348: LowerLeg_L 8
+    401350: LowerLeg_L 9
+    401352: LowerLeg_R
+    401354: LowerLeg_R 1
+    401356: LowerLeg_R 10
+    401358: LowerLeg_R 11
+    401360: LowerLeg_R 12
+    401362: LowerLeg_R 13
+    401364: LowerLeg_R 14
+    401366: LowerLeg_R 15
+    401368: LowerLeg_R 16
+    401370: LowerLeg_R 17
+    401372: LowerLeg_R 18
+    401374: LowerLeg_R 19
+    401376: LowerLeg_R 2
+    401378: LowerLeg_R 20
+    401380: LowerLeg_R 21
+    401382: LowerLeg_R 22
+    401384: LowerLeg_R 23
+    401386: LowerLeg_R 24
+    401388: LowerLeg_R 25
+    401390: LowerLeg_R 26
+    401392: LowerLeg_R 27
+    401394: LowerLeg_R 28
+    401396: LowerLeg_R 29
+    401398: LowerLeg_R 3
+    401400: LowerLeg_R 30
+    401402: LowerLeg_R 31
+    401404: LowerLeg_R 32
+    401406: LowerLeg_R 33
+    401408: LowerLeg_R 34
+    401410: LowerLeg_R 35
+    401412: LowerLeg_R 36
+    401414: LowerLeg_R 37
+    401416: LowerLeg_R 38
+    401418: LowerLeg_R 39
+    401420: LowerLeg_R 4
+    401422: LowerLeg_R 40
+    401424: LowerLeg_R 41
+    401426: LowerLeg_R 42
+    401428: LowerLeg_R 43
+    401430: LowerLeg_R 44
+    401432: LowerLeg_R 45
+    401434: LowerLeg_R 46
+    401436: LowerLeg_R 47
+    401438: LowerLeg_R 48
+    401440: LowerLeg_R 49
+    401442: LowerLeg_R 5
+    401444: LowerLeg_R 50
+    401446: LowerLeg_R 51
+    401448: LowerLeg_R 52
+    401450: LowerLeg_R 53
+    401452: LowerLeg_R 54
+    401454: LowerLeg_R 55
+    401456: LowerLeg_R 56
+    401458: LowerLeg_R 57
+    401460: LowerLeg_R 58
+    401462: LowerLeg_R 59
+    401464: LowerLeg_R 6
+    401466: LowerLeg_R 60
+    401468: LowerLeg_R 7
+    401470: LowerLeg_R 8
+    401472: LowerLeg_R 9
+    401474: SM_School_Cha_Player_Gray.004
+    401476: SM_School_Cha_Player_Gray.005
+    401478: SM_School_Cha_Player_Gray.006
+    401480: SM_School_Cha_Player_Gray.007
+    401482: SM_School_Cha_Player_Gray.008
+    401484: SM_School_Cha_Player_Gray.009
+    401486: SM_School_Cha_Player_Gray.010
+    401488: SM_School_Cha_Player_Gray.011
+    401490: SM_School_Cha_Player_Gray.013
+    401492: SM_School_Cha_Player_Gray.015
+    401494: SM_School_Cha_Player_Gray.016
+    401496: SM_School_Cha_Player_Gray.017
+    401498: SM_School_Cha_Player_Gray.018
+    401500: SM_School_Cha_Player_Gray.019
+    401502: SM_School_Cha_Player_Gray.020
+    401504: SM_School_Cha_Player_Gray.021
+    401506: SM_School_Cha_Player_Gray.022
+    401508: SM_School_Cha_Player_Gray.023
+    401510: SM_School_Cha_Player_Gray.024
+    401512: SM_School_Cha_Player_Gray.025
+    401514: SM_School_Cha_Player_Gray.026
+    401516: SM_School_Cha_Player_Gray.027
+    401518: SM_School_Cha_Player_Gray.028
+    401520: SM_School_Cha_Player_Gray.029
+    401522: SM_School_Cha_Player_Gray.030
+    401524: SM_School_Cha_Player_Gray.033
+    401526: SM_School_Cha_Player_Gray.034
+    401528: SM_School_Cha_Player_Gray.035
+    401530: SM_School_Cha_Player_Gray.036
+    401532: SM_School_Cha_Player_Gray.037
+    401534: SM_School_Cha_Player_Gray.038
+    401536: SM_School_Cha_Player_Gray.039
+    401538: SM_School_Cha_Player_Gray.040
+    401540: SM_School_Cha_Player_Gray.041
+    401542: SM_School_Cha_Player_Gray.042
+    401544: SM_School_Cha_Player_Gray.043
+    401546: SM_School_Cha_Player_Gray01.001
+    401548: SM_School_Cha_Player_Gray01.002
+    401550: SM_School_Cha_Player_Gray01.004
+    401552: SM_School_Cha_Player_Gray02.001
+    401554: SM_School_Cha_Player_Gray02.002
+    401556: SM_School_Cha_Player_Gray02.004
+    401558: SM_School_Cha_Player_Gray02.005
+    401560: SM_School_Cha_Player_Gray02.006
+    401562: SM_School_Cha_Player_Gray02.007
+    401564: SM_School_Cha_Player_Gray02.008
+    401566: SM_School_Cha_Player_Gray02.009
+    401568: SM_School_Cha_Player_Gray02.010
+    401570: SM_School_Cha_Player_Gray02.011
+    401572: SM_School_Cha_Player_Gray02.012
+    401574: SM_School_Cha_Player_Gray02.013
+    401576: SM_School_Cha_Player_Gray02.014
+    401578: SM_School_Cha_Player_Gray02.015
+    401580: SM_School_Cha_Player_Gray02.016
+    401582: SM_School_Cha_Player_Gray02.017
+    401584: SM_School_Cha_Player_Gray02.018
+    401586: SM_School_Cha_Player_Gray03.001
+    401588: SM_School_Cha_Player_Gray03.002
+    401590: SM_School_Cha_Player_Gray03.003
+    401592: SM_School_Cha_Player_Gray03.004
+    401594: SM_School_Cha_Player_Gray03.006
+    401596: SM_School_Cha_Player_Gray03.007
+    401598: SM_School_Cha_Player_Gray04.001
+    401600: SM_School_Cha_Player_Gray04.002
+    401602: SM_School_Cha_Player_Gray04.004
+    401604: SM_School_Cha_Player_Gray04.005
+    401606: SM_School_Cha_Player_Gray04.006
+    401608: SM_School_Cha_Player_Gray04.007
+    401610: SM_School_Cha_Player_Gray04.008
+    401612: SM_School_Cha_Player_Gray04.009
+    401614: SM_School_Cha_Player_Gray04.010
+    401616: SM_School_Cha_Player_Gray04.011
+    401618: SM_School_Cha_Player_Orange.004
+    401620: SM_School_Cha_Player_Orange.005
+    401622: SM_School_Cha_Player_Orange.006
+    401624: SM_School_Cha_Player_Orange.007
+    401626: SM_School_Cha_Player_Orange.008
+    401628: SM_School_Cha_Player_Orange.009
+    401630: SM_School_Cha_Player_Orange.010
+    401632: SM_School_Cha_Player_Orange.011
+    401634: SM_School_Cha_Player_Orange.013
+    401636: SM_School_Cha_Player_Orange.014
+    401638: SM_School_Cha_Player_Orange.016
+    401640: SM_School_Cha_Player_Orange.017
+    401642: SM_School_Cha_Player_Orange.018
+    401644: SM_School_Cha_Player_Orange.019
+    401646: SM_School_Cha_Player_Orange.020
+    401648: SM_School_Cha_Player_Orange.021
+    401650: SM_School_Cha_Player_Orange.022
+    401652: SM_School_Cha_Player_Orange.023
+    401654: SM_School_Cha_Player_Orange.024
+    401656: SM_School_Cha_Player_Orange.025
+    401658: SM_School_Cha_Player_Orange.026
+    401660: SM_School_Cha_Player_Orange.027
+    401662: SM_School_Cha_Player_Orange.028
+    401664: SM_School_Cha_Player_Orange.029
+    401666: SM_School_Cha_Player_Orange.030
+    401668: SM_School_Cha_Player_Orange01.001
+    401670: SM_School_Cha_Player_Orange01.002
+    401672: SM_School_Cha_Player_Orange01.003
+    401674: SM_School_Cha_Player_Orange01.004
+    401676: SM_School_Cha_Player_Orange02.001
+    401678: SM_School_Cha_Player_Orange02.002
+    401680: SM_School_Cha_Player_Orange02.004
+    401682: SM_School_Cha_Player_Orange02.005
+    401684: SM_School_Cha_Player_Orange02.006
+    401686: SM_School_Cha_Player_Orange02.007
+    401688: SM_School_Cha_Player_Orange02.008
+    401690: SM_School_Cha_Player_Orange02.009
+    401692: SM_School_Cha_Player_Orange02.010
+    401694: SM_School_Cha_Player_Orange02.011
+    401696: SM_School_Cha_Player_Orange03.001
+    401698: SM_School_Cha_Player_Orange03.002
+    401700: SM_School_Cha_Player_Orange03.004
+    401702: SM_School_Cha_Player_Orange03.005
+    401704: SM_School_Cha_Player_Orange03.006
+    401706: SM_School_Cha_Player_Orange04.001
+    401708: SM_School_Cha_Player_Orange04.002
+    401710: SM_School_Cha_Player_Orange04.003
+    401712: SM_School_Cha_Player_Orange04.004
+    401714: SM_School_Cha_Player_Orange04.005
+    401716: SM_School_Cha_Player_Orange04.006
+    401718: SM_School_Env_BasketballCourt
+    401720: SM_School_Env_BasketballCourt.001
+    401722: SM_School_Env_Building01.001
+    401724: SM_School_Env_Building02
+    401726: SM_School_Env_FootballGround
+    401728: SM_School_Env_SchoolText
+    401730: SM_School_Env_StadiumSeat_Blue
+    401732: SM_School_Env_StadiumSeat_Blue.001
+    401734: SM_School_Env_StadiumSeat_Blue.002
+    401736: SM_School_Env_StadiumSeat_Blue.003
+    401738: SM_School_Env_StadiumSeat_Red
+    401740: SM_School_Env_StadiumSeat_Red.001
+    401742: SM_School_Env_StadiumSeat_Red.002
+    401744: SM_School_Env_StadiumSeat_Red.003
+    401746: SM_School_Props_Basketball
+    401748: SM_School_Props_Football
+    401750: Spine
+    401752: Spine 1
+    401754: Spine 10
+    401756: Spine 11
+    401758: Spine 12
+    401760: Spine 13
+    401762: Spine 14
+    401764: Spine 15
+    401766: Spine 16
+    401768: Spine 17
+    401770: Spine 18
+    401772: Spine 19
+    401774: Spine 2
+    401776: Spine 20
+    401778: Spine 21
+    401780: Spine 22
+    401782: Spine 23
+    401784: Spine 24
+    401786: Spine 25
+    401788: Spine 26
+    401790: Spine 27
+    401792: Spine 28
+    401794: Spine 29
+    401796: Spine 3
+    401798: Spine 30
+    401800: Spine 31
+    401802: Spine 32
+    401804: Spine 33
+    401806: Spine 34
+    401808: Spine 35
+    401810: Spine 36
+    401812: Spine 37
+    401814: Spine 38
+    401816: Spine 39
+    401818: Spine 4
+    401820: Spine 40
+    401822: Spine 41
+    401824: Spine 42
+    401826: Spine 43
+    401828: Spine 44
+    401830: Spine 45
+    401832: Spine 46
+    401834: Spine 47
+    401836: Spine 48
+    401838: Spine 49
+    401840: Spine 5
+    401842: Spine 50
+    401844: Spine 51
+    401846: Spine 52
+    401848: Spine 53
+    401850: Spine 54
+    401852: Spine 55
+    401854: Spine 56
+    401856: Spine 57
+    401858: Spine 58
+    401860: Spine 59
+    401862: Spine 6
+    401864: Spine 60
+    401866: Spine 7
+    401868: Spine 8
+    401870: Spine 9
+    401872: UpperLeg_L
+    401874: UpperLeg_L 1
+    401876: UpperLeg_L 10
+    401878: UpperLeg_L 11
+    401880: UpperLeg_L 12
+    401882: UpperLeg_L 13
+    401884: UpperLeg_L 14
+    401886: UpperLeg_L 15
+    401888: UpperLeg_L 16
+    401890: UpperLeg_L 17
+    401892: UpperLeg_L 18
+    401894: UpperLeg_L 19
+    401896: UpperLeg_L 2
+    401898: UpperLeg_L 20
+    401900: UpperLeg_L 21
+    401902: UpperLeg_L 22
+    401904: UpperLeg_L 23
+    401906: UpperLeg_L 24
+    401908: UpperLeg_L 25
+    401910: UpperLeg_L 26
+    401912: UpperLeg_L 27
+    401914: UpperLeg_L 28
+    401916: UpperLeg_L 29
+    401918: UpperLeg_L 3
+    401920: UpperLeg_L 30
+    401922: UpperLeg_L 31
+    401924: UpperLeg_L 32
+    401926: UpperLeg_L 33
+    401928: UpperLeg_L 34
+    401930: UpperLeg_L 35
+    401932: UpperLeg_L 36
+    401934: UpperLeg_L 37
+    401936: UpperLeg_L 38
+    401938: UpperLeg_L 39
+    401940: UpperLeg_L 4
+    401942: UpperLeg_L 40
+    401944: UpperLeg_L 41
+    401946: UpperLeg_L 42
+    401948: UpperLeg_L 43
+    401950: UpperLeg_L 44
+    401952: UpperLeg_L 45
+    401954: UpperLeg_L 46
+    401956: UpperLeg_L 47
+    401958: UpperLeg_L 48
+    401960: UpperLeg_L 49
+    401962: UpperLeg_L 5
+    401964: UpperLeg_L 50
+    401966: UpperLeg_L 51
+    401968: UpperLeg_L 52
+    401970: UpperLeg_L 53
+    401972: UpperLeg_L 54
+    401974: UpperLeg_L 55
+    401976: UpperLeg_L 56
+    401978: UpperLeg_L 57
+    401980: UpperLeg_L 58
+    401982: UpperLeg_L 59
+    401984: UpperLeg_L 6
+    401986: UpperLeg_L 60
+    401988: UpperLeg_L 7
+    401990: UpperLeg_L 8
+    401992: UpperLeg_L 9
+    401994: UpperLeg_R
+    401996: UpperLeg_R 1
+    401998: UpperLeg_R 10
+    402000: UpperLeg_R 11
+    402002: UpperLeg_R 12
+    402004: UpperLeg_R 13
+    402006: UpperLeg_R 14
+    402008: UpperLeg_R 15
+    402010: UpperLeg_R 16
+    402012: UpperLeg_R 17
+    402014: UpperLeg_R 18
+    402016: UpperLeg_R 19
+    402018: UpperLeg_R 2
+    402020: UpperLeg_R 20
+    402022: UpperLeg_R 21
+    402024: UpperLeg_R 22
+    402026: UpperLeg_R 23
+    402028: UpperLeg_R 24
+    402030: UpperLeg_R 25
+    402032: UpperLeg_R 26
+    402034: UpperLeg_R 27
+    402036: UpperLeg_R 28
+    402038: UpperLeg_R 29
+    402040: UpperLeg_R 3
+    402042: UpperLeg_R 30
+    402044: UpperLeg_R 31
+    402046: UpperLeg_R 32
+    402048: UpperLeg_R 33
+    402050: UpperLeg_R 34
+    402052: UpperLeg_R 35
+    402054: UpperLeg_R 36
+    402056: UpperLeg_R 37
+    402058: UpperLeg_R 38
+    402060: UpperLeg_R 39
+    402062: UpperLeg_R 4
+    402064: UpperLeg_R 40
+    402066: UpperLeg_R 41
+    402068: UpperLeg_R 42
+    402070: UpperLeg_R 43
+    402072: UpperLeg_R 44
+    402074: UpperLeg_R 45
+    402076: UpperLeg_R 46
+    402078: UpperLeg_R 47
+    402080: UpperLeg_R 48
+    402082: UpperLeg_R 49
+    402084: UpperLeg_R 5
+    402086: UpperLeg_R 50
+    402088: UpperLeg_R 51
+    402090: UpperLeg_R 52
+    402092: UpperLeg_R 53
+    402094: UpperLeg_R 54
+    402096: UpperLeg_R 55
+    402098: UpperLeg_R 56
+    402100: UpperLeg_R 57
+    402102: UpperLeg_R 58
+    402104: UpperLeg_R 59
+    402106: UpperLeg_R 6
+    402108: UpperLeg_R 60
+    402110: UpperLeg_R 7
+    402112: UpperLeg_R 8
+    402114: UpperLeg_R 9
+    2300000: Base_MeshPart0
+    2300002: Base_MeshPart1
+    2300004: Cube.1619
+    2300006: SM_School_Env_BasketballCourt
+    2300008: SM_School_Env_BasketballCourt.001
+    2300010: SM_School_Env_Building01.001
+    2300012: SM_School_Env_Building02
+    2300014: SM_School_Env_FootballGround
+    2300016: SM_School_Env_SchoolText
+    2300018: SM_School_Env_StadiumSeat_Blue
+    2300020: SM_School_Env_StadiumSeat_Blue.001
+    2300022: SM_School_Env_StadiumSeat_Blue.002
+    2300024: SM_School_Env_StadiumSeat_Blue.003
+    2300026: SM_School_Env_StadiumSeat_Red
+    2300028: SM_School_Env_StadiumSeat_Red.001
+    2300030: SM_School_Env_StadiumSeat_Red.002
+    2300032: SM_School_Env_StadiumSeat_Red.003
+    2300034: SM_School_Props_Basketball
+    2300036: SM_School_Props_Football
+    3300000: Base_MeshPart0
+    3300002: Base_MeshPart1
+    3300004: Cube.1619
+    3300006: SM_School_Env_BasketballCourt
+    3300008: SM_School_Env_BasketballCourt.001
+    3300010: SM_School_Env_Building01.001
+    3300012: SM_School_Env_Building02
+    3300014: SM_School_Env_FootballGround
+    3300016: SM_School_Env_SchoolText
+    3300018: SM_School_Env_StadiumSeat_Blue
+    3300020: SM_School_Env_StadiumSeat_Blue.001
+    3300022: SM_School_Env_StadiumSeat_Blue.002
+    3300024: SM_School_Env_StadiumSeat_Blue.003
+    3300026: SM_School_Env_StadiumSeat_Red
+    3300028: SM_School_Env_StadiumSeat_Red.001
+    3300030: SM_School_Env_StadiumSeat_Red.002
+    3300032: SM_School_Env_StadiumSeat_Red.003
+    3300034: SM_School_Props_Basketball
+    3300036: SM_School_Props_Football
+    4300000: Base_MeshPart0
+    4300002: Base_MeshPart1
+    4300004: SM_School_Env_StadiumSeat_Red.003
+    4300006: SM_School_Env_StadiumSeat_Red.002
+    4300008: SM_School_Env_StadiumSeat_Red.001
+    4300010: SM_School_Env_StadiumSeat_Blue.003
+    4300012: SM_School_Env_StadiumSeat_Blue.002
+    4300014: SM_School_Env_StadiumSeat_Blue.001
+    4300016: SM_School_Env_BasketballCourt.001
+    4300018: SM_School_Env_Building01.001
+    4300020: SM_School_Props_Football
+    4300022: SM_School_Props_Basketball
+    4300024: SM_School_Env_StadiumSeat_Red
+    4300026: SM_School_Env_StadiumSeat_Blue
+    4300028: SM_School_Env_SchoolText
+    4300030: SM_School_Env_FootballGround
+    4300032: SM_School_Env_Building02
+    4300034: SM_School_Env_BasketballCourt
+    4300036: SM_School_Cha_Player_Gray.043
+    4300038: SM_School_Cha_Player_Gray.042
+    4300040: SM_School_Cha_Player_Gray.041
+    4300042: SM_School_Cha_Player_Gray.040
+    4300044: SM_School_Cha_Player_Gray.039
+    4300046: SM_School_Cha_Player_Gray.038
+    4300048: SM_School_Cha_Player_Gray.037
+    4300050: SM_School_Cha_Player_Gray.036
+    4300052: SM_School_Cha_Player_Gray.035
+    4300054: SM_School_Cha_Player_Gray.034
+    4300056: SM_School_Cha_Player_Gray.033
+    4300058: SM_School_Cha_Player_Orange.030
+    4300060: SM_School_Cha_Player_Orange.029
+    4300062: SM_School_Cha_Player_Gray.030
+    4300064: SM_School_Cha_Player_Gray.029
+    4300066: SM_School_Cha_Player_Gray.028
+    4300068: SM_School_Cha_Player_Orange.028
+    4300070: SM_School_Cha_Player_Orange.027
+    4300072: SM_School_Cha_Player_Gray.027
+    4300074: SM_School_Cha_Player_Orange.026
+    4300076: SM_School_Cha_Player_Gray.026
+    4300078: SM_School_Cha_Player_Gray.025
+    4300080: SM_School_Cha_Player_Orange.025
+    4300082: SM_School_Cha_Player_Gray.024
+    4300084: SM_School_Cha_Player_Orange.024
+    4300086: SM_School_Cha_Player_Orange.023
+    4300088: SM_School_Cha_Player_Gray.023
+    4300090: SM_School_Cha_Player_Gray.022
+    4300092: SM_School_Cha_Player_Gray.021
+    4300094: SM_School_Cha_Player_Orange.022
+    4300096: SM_School_Cha_Player_Gray.020
+    4300098: SM_School_Cha_Player_Gray.019
+    4300100: SM_School_Cha_Player_Gray.018
+    4300102: SM_School_Cha_Player_Gray.017
+    4300104: SM_School_Cha_Player_Gray.016
+    4300106: SM_School_Cha_Player_Gray.015
+    4300108: SM_School_Cha_Player_Orange.021
+    4300110: SM_School_Cha_Player_Orange.020
+    4300112: SM_School_Cha_Player_Orange.019
+    4300114: SM_School_Cha_Player_Orange.018
+    4300116: SM_School_Cha_Player_Orange.017
+    4300118: SM_School_Cha_Player_Orange.016
+    4300120: SM_School_Cha_Player_Orange.014
+    4300122: SM_School_Cha_Player_Orange.013
+    4300124: SM_School_Cha_Player_Gray.013
+    4300126: SM_School_Cha_Player_Orange.011
+    4300128: SM_School_Cha_Player_Orange.010
+    4300130: SM_School_Cha_Player_Orange.009
+    4300132: SM_School_Cha_Player_Orange.008
+    4300134: SM_School_Cha_Player_Gray.011
+    4300136: SM_School_Cha_Player_Gray.010
+    4300138: SM_School_Cha_Player_Gray.009
+    4300140: SM_School_Cha_Player_Gray.008
+    4300142: SM_School_Cha_Player_Gray.007
+    4300144: SM_School_Cha_Player_Gray.006
+    4300146: SM_School_Cha_Player_Gray.005
+    4300148: SM_School_Cha_Player_Gray.004
+    4300150: SM_School_Cha_Player_Orange.007
+    4300152: SM_School_Cha_Player_Orange.006
+    4300154: SM_School_Cha_Player_Orange.005
+    4300156: SM_School_Cha_Player_Orange.004
+    4300158: Cube.1619
+    9500000: //RootNode
+    13700000: SM_School_Cha_Player_Gray.004
+    13700002: SM_School_Cha_Player_Gray.005
+    13700004: SM_School_Cha_Player_Gray.006
+    13700006: SM_School_Cha_Player_Gray.007
+    13700008: SM_School_Cha_Player_Gray.008
+    13700010: SM_School_Cha_Player_Gray.009
+    13700012: SM_School_Cha_Player_Gray.010
+    13700014: SM_School_Cha_Player_Gray.011
+    13700016: SM_School_Cha_Player_Gray.013
+    13700018: SM_School_Cha_Player_Gray.015
+    13700020: SM_School_Cha_Player_Gray.016
+    13700022: SM_School_Cha_Player_Gray.017
+    13700024: SM_School_Cha_Player_Gray.018
+    13700026: SM_School_Cha_Player_Gray.019
+    13700028: SM_School_Cha_Player_Gray.020
+    13700030: SM_School_Cha_Player_Gray.021
+    13700032: SM_School_Cha_Player_Gray.022
+    13700034: SM_School_Cha_Player_Gray.023
+    13700036: SM_School_Cha_Player_Gray.024
+    13700038: SM_School_Cha_Player_Gray.025
+    13700040: SM_School_Cha_Player_Gray.026
+    13700042: SM_School_Cha_Player_Gray.027
+    13700044: SM_School_Cha_Player_Gray.028
+    13700046: SM_School_Cha_Player_Gray.029
+    13700048: SM_School_Cha_Player_Gray.030
+    13700050: SM_School_Cha_Player_Gray.033
+    13700052: SM_School_Cha_Player_Gray.034
+    13700054: SM_School_Cha_Player_Gray.035
+    13700056: SM_School_Cha_Player_Gray.036
+    13700058: SM_School_Cha_Player_Gray.037
+    13700060: SM_School_Cha_Player_Gray.038
+    13700062: SM_School_Cha_Player_Gray.039
+    13700064: SM_School_Cha_Player_Gray.040
+    13700066: SM_School_Cha_Player_Gray.041
+    13700068: SM_School_Cha_Player_Gray.042
+    13700070: SM_School_Cha_Player_Gray.043
+    13700072: SM_School_Cha_Player_Orange.004
+    13700074: SM_School_Cha_Player_Orange.005
+    13700076: SM_School_Cha_Player_Orange.006
+    13700078: SM_School_Cha_Player_Orange.007
+    13700080: SM_School_Cha_Player_Orange.008
+    13700082: SM_School_Cha_Player_Orange.009
+    13700084: SM_School_Cha_Player_Orange.010
+    13700086: SM_School_Cha_Player_Orange.011
+    13700088: SM_School_Cha_Player_Orange.013
+    13700090: SM_School_Cha_Player_Orange.014
+    13700092: SM_School_Cha_Player_Orange.016
+    13700094: SM_School_Cha_Player_Orange.017
+    13700096: SM_School_Cha_Player_Orange.018
+    13700098: SM_School_Cha_Player_Orange.019
+    13700100: SM_School_Cha_Player_Orange.020
+    13700102: SM_School_Cha_Player_Orange.021
+    13700104: SM_School_Cha_Player_Orange.022
+    13700106: SM_School_Cha_Player_Orange.023
+    13700108: SM_School_Cha_Player_Orange.024
+    13700110: SM_School_Cha_Player_Orange.025
+    13700112: SM_School_Cha_Player_Orange.026
+    13700114: SM_School_Cha_Player_Orange.027
+    13700116: SM_School_Cha_Player_Orange.028
+    13700118: SM_School_Cha_Player_Orange.029
+    13700120: SM_School_Cha_Player_Orange.030
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
