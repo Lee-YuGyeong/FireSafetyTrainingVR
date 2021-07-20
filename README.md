@@ -1,5 +1,5 @@
 #  화재 안전 교육 VR
-- Introduction Video :  <br />
+- Introduction Video : https://youtu.be/eC5HhZ6Dlew <br />
 
 ## Introduction
  - Unity를 이용해 Oculus Quest 2에서 실행가능한 게임 형식의 화재안전교육 VR 콘텐츠를 구현한다.
